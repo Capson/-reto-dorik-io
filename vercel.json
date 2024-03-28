@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "-reto-dorik-io/$1"
+ }
+  ]
+}
